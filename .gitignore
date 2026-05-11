@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### Ignorer le fichier copy (celui home) ###
+**/application-copy.properties
